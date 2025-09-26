@@ -40,3 +40,9 @@ Aplicación de clima desarrollada en Swift utilizando arquitectura VIPER. Actual
 
 Proyecto en desarrollo. En esta primera versión se enfoca en estructurar la base de datos, lógica y visualización mínima para luego escalar funcionalmente y visualmente.
 
+---
+
+# Autor
+
+Andrés Martínez — iOS/Flutter Developer
+
